@@ -36,3 +36,10 @@ export default {
   },
 };
 </script>
+
+<style>
+.mord.accent{
+  background-color: transparent !important;
+}
+
+</style>
